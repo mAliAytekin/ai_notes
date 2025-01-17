@@ -2,7 +2,7 @@
 
 
 
-
+[linkkk](AI_Notes/Sinir Ağları.md)
 
  [Sinir Ağları](Sinir Ağları.md) 
 
