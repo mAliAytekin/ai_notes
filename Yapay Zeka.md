@@ -1,2 +1,2 @@
-[z](Genetik Algoritmalar.md)
+
 
