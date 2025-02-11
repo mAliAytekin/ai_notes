@@ -1,1 +1,0 @@
-Genetik Algoritmalar
