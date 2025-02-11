@@ -1,5 +1,3 @@
  # ReadMe
 
- 
-
-  [Veri Temizleme.md](Veri Bilimi\Veri Temizleme.md) 
+yani işte not almaca fln
